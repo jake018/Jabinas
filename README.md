@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jake Agnas</h1>
 <h3 align="center">Future Fullstack Developer and Cyber Security</h3>
-<img allign="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs">
+<img allign="right" alt="coding" width="400" src="https://tenor.com/view/programmer-gif-19019116">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jake018&label=Profile%20views&color=0e75b6&style=flat" alt="jake018" /> </p>
 
